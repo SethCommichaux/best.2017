@@ -1,5 +1,6 @@
 # A script to get first layer of hierarchically clustered samples in the IGC.
 # commandline arguments are only one of the following files: AGC.clsr, CGC.clstr, EGC.clstr, SPGC.clstr
+# Refer to run_cluster_of_clusters.sh for usage
 
 import sys
 
